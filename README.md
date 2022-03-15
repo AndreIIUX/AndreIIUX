@@ -1,4 +1,4 @@
-### Welcome to my page 👋
+## Welcome to my page 👋
 
 <p> I'm Andrea Ulloa and I study Economy at Pontifical Catholic University of Peru (PUCP). </p>
 <p> I'm from Lima, Peru  </p>
