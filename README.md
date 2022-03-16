@@ -3,7 +3,7 @@
 <p> I'm Andrea Ulloa and I study Economy at Pontifical Catholic University of Peru (PUCP). </p>
 <p> I'm from Lima, Peru  </p>
 <ul>
-  <li> 🔭 Currently, I'm working in the Experimental Economics Laboratory (LEEX) of the Economics Department of the PUCP.</li> 
+  <li> 🔭 Currently, I'm working in the Experimental Economics Laboratory (LEEX) of the Economics Department at PUCP.</li> 
   <li> 🌱 I'm learning Python, Otree and Machine Learning. </li>
   <li> ⚡ I'm intersted in Data Science and Experimental Economics. </li>
 </ul>
