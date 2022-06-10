@@ -5,7 +5,7 @@
 <ul>
   <li> 🔭 Currently, I'm working in the Experimental Economics Laboratory (LEEX) of the Economics Department at PUCP.</li> 
   <li> 🌱 I'm learning Python, Otree and Machine Learning. </li>
-  <li> ⚡ I'm intersted in Data Science and Experimental Economics. </li>
+  <li> ⚡ I'm interested in Data Science and Experimental Economics. </li>
 </ul>
 
 <p>  📫 How to reach me:  </p>
